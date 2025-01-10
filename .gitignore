@@ -1,0 +1,10 @@
+# Raycast contains assets which can't be pushed to config files
+raycast
+
+# Indexing files
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
